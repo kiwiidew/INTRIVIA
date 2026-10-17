@@ -10,3 +10,6 @@ hebat.
 
 ## Kesan Pesan Cluster [Nomor Cluster] Sejauh Ini 
 cluster 8 asiik (bintang 5)
+
+## Harapan Kuliah 
+lulus tepat waktu
